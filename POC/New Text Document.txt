@@ -1,0 +1,43 @@
+import pandas as pd
+from sklearn.metrics.pairwise import cosine_similarity
+from sklearn.preprocessing import LabelEncoder
+
+# Sample data (you can replace this with your own dataset)
+data = {
+    'user_id': [1, 1, 2, 2, 3],
+    'food_item': ['Pizza', 'Burger', 'Pizza', 'Salad', 'Burger']
+}
+
+df = pd.DataFrame(data)
+
+# Label encode user_id and food_item
+user_encoder = LabelEncoder()
+food_encoder = LabelEncoder()
+
+df['user_id'] = user_encoder.fit_transform(df['user_id'])
+df['food_item'] = food_encoder.fit_transform(df['food_item'])
+
+# Create a user-item matrix
+user_item_matrix = pd.pivot_table(df, index='user_id', columns='food_item', aggfunc=lambda x: 1, fill_value=0)
+
+# Calculate item-item similarity using cosine similarity
+item_similarity = cosine_similarity(user_item_matrix.T)
+
+# Function to get food recommendations for a given food item
+def get_food_recommendations(food_item, user_item_matrix, item_similarity, food_encoder, top_n=5):
+    food_id = food_encoder.transform([food_item])[0]
+    
+    # Get similarity scores for the specified food item
+    item_sim_scores = item_similarity[food_id]
+    
+    # Get indices of similar items, excluding the queried food item
+    similar_items = item_sim_scores.argsort()[::-1][1:top_n+1]
+    
+    # Decode the indices back to food items
+    recommended_food = food_encoder.inverse_transform(similar_items)
+    
+    return recommended_food
+
+# Example: Get food recommendations for 'Pizza'
+recommendations = get_food_recommendations('Pizza', user_item_matrix, item_similarity, food_encoder)
+print("Food Recommendations for Pizza:", recommendations)
