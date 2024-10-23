@@ -1,0 +1,245 @@
+Date,Time,Name,Text,scores,compound,Negtive,Postive,Neutral,comp_score,Topic
+10/4/20, 9:40 PM , Suganya tn, Is that yoga class good Femi,"{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.4404}",0.4404,0.0,0.367,0.633,pos,4
+10/4/20, 11:18 PM , Suganya tn, Preksha from jeeva parivardhanam yoga only u said,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+10/5/20, 5:31 AM , hameedfemina, 89044 91142,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+10/5/20, 5:32 AM , hameedfemina, This person name is Shashank,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+10/5/20, 5:32 AM , hameedfemina, He s also one of the organizer,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+10/5/20, 5:32 AM , hameedfemina, U can ping hin,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+10/5/20, 5:32 AM , hameedfemina, Him,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+10/5/20, 5:36 AM , hameedfemina, Join this this is useful,"{'neg': 0.0, 'neu': 0.37, 'pos': 0.63, 'compound': 0.6249}",0.6249,0.0,0.63,0.37,pos,0
+10/5/20, 5:37 AM , hameedfemina, Only thing is need to wake up early. 1 week you will feel tired later u will be ok,"{'neg': 0.144, 'neu': 0.746, 'pos': 0.109, 'compound': -0.1779}",-0.1779,0.144,0.109,0.746,neg,4
+10/7/20, 7:39 PM , hameedfemina, Namaste 🙏,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+10/8/20, 5:39 AM , hameedfemina, It is very good  for eye,"{'neg': 0.0, 'neu': 0.61, 'pos': 0.39, 'compound': 0.4927}",0.4927,0.0,0.39,0.61,pos,2
+10/8/20, 5:39 AM , hameedfemina, Kids can also follow this,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+10/8/20, 8:11 AM , Suganya tn, Ok ma thanks sure,"{'neg': 0.0, 'neu': 0.119, 'pos': 0.881, 'compound': 0.7506}",0.7506,0.0,0.881,0.119,pos,2
+10/17/20, 12:35 PM , hameedfemina, Sugu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+10/17/20, 12:36 PM , hameedfemina, I got slight pain from thought to till chess region. Back side also. I net doctor she told it may be gastritis .but need to get ecg and X-ray done . I took both.,"{'neg': 0.069, 'neu': 0.931, 'pos': 0.0, 'compound': -0.2846}",-0.2846,0.069,0.0,0.931,neg,3
+10/17/20, 12:37 PM , hameedfemina, Technition told X-ray a fine ECG is having slight variation,"{'neg': 0.0, 'neu': 0.816, 'pos': 0.184, 'compound': 0.2023}",0.2023,0.0,0.184,0.816,pos,3
+10/17/20, 12:37 PM , hameedfemina, Eve 5 clk only doctor will be back to check the report,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2
+10/17/20, 12:37 PM , hameedfemina, Worried.,"{'neg': 1.0, 'neu': 0.0, 'pos': 0.0, 'compound': -0.296}",-0.296,1.0,0.0,0.0,neg,4
+10/17/20, 3:22 PM , Suganya tn, Will check with him ma. Don't worry,"{'neg': 0.0, 'neu': 0.714, 'pos': 0.286, 'compound': 0.3412}",0.3412,0.0,0.286,0.714,pos,2
+10/18/20, 11:26 AM , hameedfemina, You deleted this message,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+10/18/20, 11:26 AM , hameedfemina, You deleted this message,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+10/18/20, 11:26 AM , hameedfemina, Sugu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+10/18/20, 11:27 AM , hameedfemina, BP and all normal,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+10/18/20, 11:27 AM , hameedfemina, They asked me to take echo. I took that. With echo report they suggested me to do theeadmill test,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,3
+10/18/20, 11:28 AM , hameedfemina, After that only they will be able to confirm it seems,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+10/18/20, 2:45 PM , hameedfemina, Hey!,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2
+10/18/20, 2:45 PM , hameedfemina, This s my son do like him,"{'neg': 0.0, 'neu': 0.667, 'pos': 0.333, 'compound': 0.3612}",0.3612,0.0,0.333,0.667,pos,4
+10/18/20, 2:45 PM , hameedfemina, This one compition,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+10/18/20, 2:46 PM , hameedfemina, Is*,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+10/19/20, 6:39 AM , Suganya tn, Sure ma,"{'neg': 0.0, 'neu': 0.303, 'pos': 0.697, 'compound': 0.3182}",0.3182,0.0,0.697,0.303,pos,2
+10/30/20, 2:20 PM , hameedfemina, Sugu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+10/30/20, 2:20 PM , hameedfemina, I did all the test consultation,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+10/30/20, 2:20 PM , hameedfemina, Due to stress only all these happened,"{'neg': 0.318, 'neu': 0.682, 'pos': 0.0, 'compound': -0.4215}",-0.4215,0.318,0.0,0.682,neg,4
+10/30/20, 2:20 PM , hameedfemina, Like that they told,"{'neg': 0.0, 'neu': 0.545, 'pos': 0.455, 'compound': 0.3612}",0.3612,0.0,0.455,0.545,pos,3
+10/30/20, 2:21 PM , hameedfemina, They gave medicine for that but looks like sleeping pills and sone stress related tablets. It is having side effects so I m not taking that. Doing yoga pranayama and consulting one ayuveda doctor,"{'neg': 0.1, 'neu': 0.812, 'pos': 0.088, 'compound': -0.1154}",-0.1154,0.1,0.088,0.812,neg,4
+10/31/20, 10:43 AM , Suganya tn, Ok ma,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.296,0.0,0.688,0.312,pos,4
+10/31/20, 10:43 AM , Suganya tn, Take care,"{'neg': 0.0, 'neu': 0.238, 'pos': 0.762, 'compound': 0.4939}",0.4939,0.0,0.762,0.238,pos,0
+11/14/20, 7:45 AM , hameedfemina, Sugu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+11/14/20, 9:48 AM , Suganya tn, Super.. congrats ma,"{'neg': 0.0, 'neu': 0.37, 'pos': 0.63, 'compound': 0.5267}",0.5267,0.0,0.63,0.37,pos,2
+11/14/20, 9:48 AM , Suganya tn, Athai agiyachu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+11/14/20, 9:48 AM , Suganya tn, Additional rile😍,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+11/14/20, 9:48 AM , Suganya tn, Role,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+11/14/20, 10:34 AM , hameedfemina, 😁😁,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+11/14/20, 10:34 AM , hameedfemina, S,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,pos,0
+1/28/21, 11:02 AM , hameedfemina, Sugu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+1/28/21, 11:03 AM , hameedfemina, I missed it call,"{'neg': 0.524, 'neu': 0.476, 'pos': 0.0, 'compound': -0.296}",-0.296,0.524,0.0,0.476,neg,4
+1/28/21, 11:03 AM , hameedfemina, How r u,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+1/28/21, 12:57 PM , Suganya tn, Fine ma how r u,"{'neg': 0.0, 'neu': 0.526, 'pos': 0.474, 'compound': 0.2023}",0.2023,0.0,0.474,0.526,pos,3
+1/28/21, 12:58 PM , hameedfemina, Fine,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.2023}",0.2023,0.0,1.0,0.0,pos,3
+5/7/21, 12:38 PM , hameedfemina, Hi Sugu how r u,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+5/7/21, 1:28 PM , Suganya tn, Hi ma fine da how r u,"{'neg': 0.0, 'neu': 0.69, 'pos': 0.31, 'compound': 0.2023}",0.2023,0.0,0.31,0.69,pos,3
+5/7/21, 2:17 PM , hameedfemina, Fine how r u all,"{'neg': 0.0, 'neu': 0.526, 'pos': 0.474, 'compound': 0.2023}",0.2023,0.0,0.474,0.526,pos,3
+5/7/21, 2:37 PM , Suganya tn, All doing goodMa,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2
+5/7/21, 2:37 PM , Suganya tn, Will do video call tomorrow?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,3
+5/7/21, 6:11 PM , hameedfemina, Sure,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.3182}",0.3182,0.0,1.0,0.0,pos,2
+5/8/21, 8:13 AM , hameedfemina, Sugu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+5/8/21, 8:15 AM , hameedfemina, One of my colleagues dad infected with corana he s 60 yes old he s having sugar ,"{'neg': 0.169, 'neu': 0.688, 'pos': 0.143, 'compound': -0.128}",-0.128,0.169,0.143,0.688,neg,2
+5/8/21, 8:27 AM , Suganya tn, Better for him to get admittted in hospital femi,"{'neg': 0.0, 'neu': 0.734, 'pos': 0.266, 'compound': 0.4404}",0.4404,0.0,0.266,0.734,pos,4
+5/8/21, 8:30 AM , hameedfemina, He s hospital only.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+5/8/21, 8:30 AM , hameedfemina, She s also got positive,"{'neg': 0.0, 'neu': 0.455, 'pos': 0.545, 'compound': 0.5574}",0.5574,0.0,0.545,0.455,pos,2
+5/8/21, 8:30 AM , Suganya tn, Then fine femi,"{'neg': 0.0, 'neu': 0.526, 'pos': 0.474, 'compound': 0.2023}",0.2023,0.0,0.474,0.526,pos,3
+5/8/21, 8:30 AM , hameedfemina, But not got bed,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2
+5/8/21, 8:31 AM , hameedfemina, She s in home,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2
+5/8/21, 8:31 AM , hameedfemina, They check.mobile,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2
+5/8/21, 8:31 AM , hameedfemina, So she s asking is that anything serious or issue,"{'neg': 0.14, 'neu': 0.86, 'pos': 0.0, 'compound': -0.0772}",-0.0772,0.14,0.0,0.86,neg,3
+5/8/21, 8:31 AM , hameedfemina, Hickup,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+5/8/21, 8:31 AM , Suganya tn, For her no lung infection and breathing issue home itself fine,"{'neg': 0.169, 'neu': 0.692, 'pos': 0.138, 'compound': -0.1027}",-0.1027,0.169,0.138,0.692,neg,3
+5/8/21, 8:31 AM , hameedfemina, Is sighn of any health iisue,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+5/8/21, 8:31 AM , Suganya tn, Just need to take some tablet,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+5/8/21, 8:32 AM , Suganya tn, It will be issue only for her father but as he is in hospital hope doctor can save him,"{'neg': 0.0, 'neu': 0.676, 'pos': 0.324, 'compound': 0.8462}",0.8462,0.0,0.324,0.676,pos,4
+5/8/21, 8:33 AM , Suganya tn, With oxygen supply he has rite,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+5/8/21, 8:33 AM , Suganya tn, Remediviar injection they put for him?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+5/8/21, 8:33 AM , Suganya tn, Omg,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+5/8/21, 8:34 AM , hameedfemina, U know one of my relative husband passed away she s just one Ur elder to me her husband is just 40,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+5/8/21, 8:35 AM , hameedfemina, 3 days fever 3 rd day died with breathing trouble . Before reaching hospital on way only died,"{'neg': 0.436, 'neu': 0.485, 'pos': 0.079, 'compound': -0.8442}",-0.8442,0.436,0.079,0.485,neg,4
+5/8/21, 8:35 AM , Suganya tn, One of my colleague passed Femi. He have one year old kid,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+5/8/21, 8:35 AM , hameedfemina, Romba kastama iruku Sugu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+5/8/21, 8:35 AM , hameedfemina, Bayama vum oruku,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+5/8/21, 8:35 AM , Suganya tn, We should be careful enough. Second wave is worst. We should stay indoor,"{'neg': 0.246, 'neu': 0.659, 'pos': 0.096, 'compound': -0.5423}",-0.5423,0.246,0.096,0.659,neg,0
+5/8/21, 8:35 AM , hameedfemina, It is killing all age ppl,"{'neg': 0.468, 'neu': 0.532, 'pos': 0.0, 'compound': -0.6597}",-0.6597,0.468,0.0,0.532,neg,2
+5/8/21, 8:36 AM , Suganya tn, Hmm true,"{'neg': 0.0, 'neu': 0.263, 'pos': 0.737, 'compound': 0.4215}",0.4215,0.0,0.737,0.263,pos,0
+5/8/21, 8:36 AM , Suganya tn, That too he was in Netherland just came for his son birthday celebration,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+5/8/21, 8:36 AM , hameedfemina, She s also having one kid 6 yes old. She s in Vizag . No one is there to support . Once he died auto man dropped him on the road,"{'neg': 0.175, 'neu': 0.663, 'pos': 0.163, 'compound': -0.1027}",-0.1027,0.175,0.163,0.663,neg,4
+5/8/21, 8:37 AM , hameedfemina, Oh,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,3
+5/8/21, 8:37 AM , Suganya tn, Don't worry be positive Femi. God will save ud,"{'neg': 0.187, 'neu': 0.32, 'pos': 0.493, 'compound': 0.5834}",0.5834,0.187,0.493,0.32,pos,4
+5/8/21, 8:37 AM , hameedfemina, God should save all Sugu. Kastama iruku. Unable to see Pola tears,"{'neg': 0.117, 'neu': 0.556, 'pos': 0.327, 'compound': 0.5267}",0.5267,0.117,0.327,0.556,pos,0
+5/8/21, 8:37 AM , hameedfemina, 😭,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,pos,0
+5/8/21, 8:38 AM , hameedfemina, In my office team  almost all got affected only 3 ppl r there .,"{'neg': 0.118, 'neu': 0.882, 'pos': 0.0, 'compound': -0.0865}",-0.0865,0.118,0.0,0.882,neg,2
+5/8/21, 8:39 AM , hameedfemina, Regarding my colleagues father she shared this ,"{'neg': 0.0, 'neu': 0.714, 'pos': 0.286, 'compound': 0.34}",0.34,0.0,0.286,0.714,pos,4
+5/8/21, 8:39 AM , Suganya tn, Then hope he will become normal. No need to worry,"{'neg': 0.34, 'neu': 0.467, 'pos': 0.193, 'compound': -0.296}",-0.296,0.34,0.193,0.467,neg,4
+5/8/21, 8:39 AM , hameedfemina, Pavam just supporting whom ever asking what ever we can support doing,"{'neg': 0.0, 'neu': 0.641, 'pos': 0.359, 'compound': 0.6808}",0.6808,0.0,0.359,0.641,pos,4
+5/8/21, 8:39 AM , hameedfemina, Oh kk,"{'neg': 0.0, 'neu': 0.286, 'pos': 0.714, 'compound': 0.3612}",0.3612,0.0,0.714,0.286,pos,3
+5/23/21, 1:31 PM , hameedfemina, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+5/23/21, 1:31 PM , hameedfemina, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+5/23/21, 1:31 PM , hameedfemina, 7 month girl baby,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+5/24/21, 4:27 PM , hameedfemina, How r u sugu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+5/30/21, 1:20 PM , hameedfemina, How r u sugu call s not connecting,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+5/30/21, 9:41 PM , Suganya tn, Hi ma I am fine will call tomorrow,"{'neg': 0.0, 'neu': 0.769, 'pos': 0.231, 'compound': 0.2023}",0.2023,0.0,0.231,0.769,pos,3
+5/30/21, 9:52 PM , hameedfemina, Kk,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.3612}",0.3612,0.0,1.0,0.0,pos,3
+5/30/21, 9:52 PM , hameedfemina, Discharged?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+5/30/21, 9:55 PM , Suganya tn, S ma in home only,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2
+5/31/21, 7:07 AM , hameedfemina, Good ma,"{'neg': 0.0, 'neu': 0.256, 'pos': 0.744, 'compound': 0.4404}",0.4404,0.0,0.744,0.256,pos,2
+6/13/21, 7:28 AM , hameedfemina, Sugu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+6/13/21, 7:28 AM , hameedfemina, How r u ?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+6/13/21, 7:28 AM , hameedfemina, How s health,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+6/13/21, 7:28 AM , Suganya tn, Hi Femi I am fine ma,"{'neg': 0.0, 'neu': 0.69, 'pos': 0.31, 'compound': 0.2023}",0.2023,0.0,0.31,0.69,pos,3
+6/13/21, 7:28 AM , Suganya tn, How r u,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+6/13/21, 7:30 AM , hameedfemina, Fine . Yesterday I took 1 st dose covishield,"{'neg': 0.0, 'neu': 0.735, 'pos': 0.265, 'compound': 0.2023}",0.2023,0.0,0.265,0.735,pos,3
+6/13/21, 7:30 AM , Suganya tn, Ok ma super,"{'neg': 0.0, 'neu': 0.141, 'pos': 0.859, 'compound': 0.7269}",0.7269,0.0,0.859,0.141,pos,4
+6/13/21, 7:31 AM , Suganya tn, U may feel fever or body pain don't worry,"{'neg': 0.282, 'neu': 0.513, 'pos': 0.206, 'compound': -0.2249}",-0.2249,0.282,0.206,0.513,neg,4
+6/13/21, 7:31 AM , hameedfemina, No sugu,"{'neg': 0.688, 'neu': 0.312, 'pos': 0.0, 'compound': -0.296}",-0.296,0.688,0.0,0.312,neg,0
+6/13/21, 7:31 AM , Suganya tn, Don't take any pain killer. Other than paravetamal,"{'neg': 0.331, 'neu': 0.461, 'pos': 0.208, 'compound': -0.3814}",-0.3814,0.331,0.208,0.461,neg,4
+6/13/21, 7:31 AM , hameedfemina, Nothing is there only hand is  paining if sleep left side,"{'neg': 0.181, 'neu': 0.604, 'pos': 0.215, 'compound': 0.128}",0.128,0.181,0.215,0.604,pos,0
+6/13/21, 7:31 AM , Suganya tn, For some they will not feel any🙏,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+6/13/21, 7:31 AM , hameedfemina, Mm thank god,"{'neg': 0.0, 'neu': 0.179, 'pos': 0.821, 'compound': 0.5574}",0.5574,0.0,0.821,0.179,pos,4
+6/13/21, 7:31 AM , Suganya tn, For my husband.no body pain,"{'neg': 0.452, 'neu': 0.548, 'pos': 0.0, 'compound': -0.5106}",-0.5106,0.452,0.0,0.548,neg,4
+6/13/21, 7:32 AM , hameedfemina, He also took vaccine,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,3
+6/13/21, 7:32 AM , hameedfemina, ?,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,pos,0
+6/13/21, 7:32 AM , Suganya tn, He took both the dose,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,3
+6/13/21, 7:32 AM , hameedfemina, Still he got corana?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2
+6/13/21, 7:32 AM , Suganya tn, When we got Covid for him it came very minimal,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2
+6/13/21, 7:32 AM , Suganya tn, He got very late but recovered soon,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2
+6/13/21, 7:33 AM , hameedfemina, Oh kk,"{'neg': 0.0, 'neu': 0.286, 'pos': 0.714, 'compound': 0.3612}",0.3612,0.0,0.714,0.286,pos,3
+6/13/21, 7:34 AM , hameedfemina, U take car of ur health augu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+6/13/21, 7:34 AM , hameedfemina, I m worried abt u only,"{'neg': 0.524, 'neu': 0.476, 'pos': 0.0, 'compound': -0.296}",-0.296,0.524,0.0,0.476,neg,4
+6/13/21, 7:35 AM , hameedfemina, During pregnancy already u will be week . After Covid  how u r managing,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+6/13/21, 7:35 AM , hameedfemina, Anyone is there with u,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+6/13/21, 7:38 AM , Suganya tn, I put maid for all the work femi,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+6/13/21, 7:38 AM , Suganya tn, Including cooking,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+6/13/21, 7:38 AM , Suganya tn, So fine now,"{'neg': 0.0, 'neu': 0.489, 'pos': 0.511, 'compound': 0.2716}",0.2716,0.0,0.511,0.489,pos,3
+6/13/21, 7:38 AM , Suganya tn, Not able to do work,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+6/13/21, 7:38 AM , Suganya tn, Feeling some negative thoughts,"{'neg': 0.514, 'neu': 0.278, 'pos': 0.208, 'compound': -0.4939}",-0.4939,0.514,0.208,0.278,neg,0
+6/13/21, 7:38 AM , Suganya tn, Would like to speak to you when u free,"{'neg': 0.0, 'neu': 0.508, 'pos': 0.492, 'compound': 0.7003}",0.7003,0.0,0.492,0.508,pos,4
+6/13/21, 7:42 AM , hameedfemina, Ok sugu .call u in fee mins.,"{'neg': 0.0, 'neu': 0.694, 'pos': 0.306, 'compound': 0.296}",0.296,0.0,0.306,0.694,pos,4
+8/1/21, 7:28 PM , hameedfemina, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+8/25/21, 5:10 PM , hameedfemina, Hi sugu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+8/25/21, 5:10 PM , hameedfemina, How r u,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+8/25/21, 5:44 PM , Suganya tn, Hi Femi fine ma,"{'neg': 0.0, 'neu': 0.625, 'pos': 0.375, 'compound': 0.2023}",0.2023,0.0,0.375,0.625,pos,3
+8/25/21, 5:44 PM , Suganya tn, How r u,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+8/25/21, 5:44 PM , Suganya tn, How w is everyone,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+8/25/21, 7:06 PM , hameedfemina, All r fine ma,"{'neg': 0.0, 'neu': 0.526, 'pos': 0.474, 'compound': 0.2023}",0.2023,0.0,0.474,0.526,pos,3
+10/27/21, 8:03 PM , hameedfemina, Super ma,"{'neg': 0.0, 'neu': 0.204, 'pos': 0.796, 'compound': 0.5994}",0.5994,0.0,0.796,0.204,pos,2
+10/27/21, 8:03 PM , hameedfemina, How s ur health,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+10/27/21, 8:09 PM , Suganya tn, Fine ma,"{'neg': 0.0, 'neu': 0.357, 'pos': 0.643, 'compound': 0.2023}",0.2023,0.0,0.643,0.357,pos,3
+2/21/22, 4:03 PM , hameedfemina, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+2/21/22, 4:03 PM , hameedfemina, Suganya,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+2/21/22, 4:03 PM , hameedfemina, This is one of my previous colleagues relative,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+2/21/22, 4:03 PM , hameedfemina, He lost job in vts,"{'neg': 0.365, 'neu': 0.635, 'pos': 0.0, 'compound': -0.3182}",-0.3182,0.365,0.0,0.635,neg,2
+2/21/22, 4:03 PM , hameedfemina, Cts,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2
+2/21/22, 4:03 PM , hameedfemina, This month is last it seems,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+2/21/22, 4:03 PM , hameedfemina, He s looking for job,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2
+2/21/22, 4:04 PM , hameedfemina, In case if you can refer in Accenture,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,3
+2/21/22, 4:04 PM , hameedfemina, Try,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+2/21/22, 4:04 PM , hameedfemina, Family man,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+2/21/22, 4:04 PM , Suganya tn, Sure da,"{'neg': 0.0, 'neu': 0.303, 'pos': 0.697, 'compound': 0.3182}",0.3182,0.0,0.697,0.303,pos,2
+2/21/22, 4:05 PM , hameedfemina, One more my maid sister son also he s from fully un educated maid family 1 st graduate . But working as contract employee in HP. He will also lost his job in one month .looks like sales profile .just refer him,"{'neg': 0.068, 'neu': 0.856, 'pos': 0.075, 'compound': 0.0772}",0.0772,0.068,0.075,0.856,pos,2
+2/21/22, 4:05 PM , hameedfemina, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+2/21/22, 4:06 PM , hameedfemina, Nammala mudinchathu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+2/21/22, 4:06 PM , hameedfemina, Help panalma,"{'neg': 0.0, 'neu': 0.27, 'pos': 0.73, 'compound': 0.4019}",0.4019,0.0,0.73,0.27,pos,4
+2/21/22, 4:06 PM , hameedfemina, Panalam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+2/21/22, 4:06 PM , Suganya tn, Sure da Dec will do,"{'neg': 0.0, 'neu': 0.635, 'pos': 0.365, 'compound': 0.3182}",0.3182,0.0,0.365,0.635,pos,2
+2/21/22, 4:06 PM , Suganya tn, Definitely,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.4019}",0.4019,0.0,1.0,0.0,pos,0
+4/19/22, 4:03 PM , hameedfemina, You deleted this message,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+4/19/22, 4:04 PM , hameedfemina, Did u get any opening for cognos Sugu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+4/19/22, 4:04 PM , hameedfemina, This guy lost job in cts,"{'neg': 0.315, 'neu': 0.685, 'pos': 0.0, 'compound': -0.3182}",-0.3182,0.315,0.0,0.685,neg,2
+4/19/22, 4:50 PM , Suganya tn, Will check todya,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2
+4/19/22, 4:50 PM , Suganya tn, Ma,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2
+4/19/22, 4:56 PM , Suganya tn, Why he lost ma,"{'neg': 0.434, 'neu': 0.566, 'pos': 0.0, 'compound': -0.3182}",-0.3182,0.434,0.0,0.566,neg,2
+4/19/22, 4:56 PM , Suganya tn, Can u resend the resume,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2
+4/19/22, 4:56 PM , Suganya tn, Totally missed da. Sorry,"{'neg': 0.67, 'neu': 0.33, 'pos': 0.0, 'compound': -0.469}",-0.469,0.67,0.0,0.33,neg,4
+4/19/22, 5:00 PM , hameedfemina, Oh,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,3
+4/19/22, 5:00 PM , hameedfemina, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+4/19/22, 5:00 PM , hameedfemina, Due to lay off,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+4/19/22, 5:01 PM , hameedfemina, Cts they do right,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2
+5/4/22, 3:30 PM , hameedfemina, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+5/4/22, 3:30 PM , hameedfemina, Sugu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+5/4/22, 3:31 PM , hameedfemina, This is my brother in law profile. He is looking for job. He s Aws and SQL server DBA. Pls refer him in Accenture .  Chennai or Bangalore is fine .,"{'neg': 0.0, 'neu': 0.893, 'pos': 0.107, 'compound': 0.2732}",0.2732,0.0,0.107,0.893,pos,3
+5/4/22, 3:32 PM , hameedfemina, He is not getting proper hike in techmahendra. He s 14+ yrs exp but getting only 15 laks,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+5/4/22, 7:20 PM , Suganya tn, Sure ma tomorrpw will see,"{'neg': 0.0, 'neu': 0.635, 'pos': 0.365, 'compound': 0.3182}",0.3182,0.0,0.365,0.635,pos,2
+5/4/22, 7:28 PM , hameedfemina, Kk,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.3612}",0.3612,0.0,1.0,0.0,pos,3
+5/4/22, 7:28 PM , hameedfemina, Sugu for my experience how much sal I should get ?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+5/4/22, 8:44 PM , Suganya tn, Now mraket is high Femi,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+5/4/22, 8:44 PM , Suganya tn, You should get more than   25 lac,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+5/4/22, 8:44 PM , Suganya tn, In fixed,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+5/4/22, 8:45 PM , Suganya tn, I am geting,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+5/4/22, 8:45 PM , Suganya tn, If I jump I will get more,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+5/4/22, 8:45 PM , Suganya tn, Most of our junior who shift more compnay getting 30 lca even,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+5/4/22, 8:48 PM , hameedfemina, Oh k,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,3
+5/4/22, 8:49 PM , hameedfemina, I m doing machine learning course so after completing that I have to search job .,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2
+5/4/22, 9:04 PM , Suganya tn, 👍,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,pos,0
+5/10/22, 6:32 PM , hameedfemina, 😘,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,pos,0
+6/21/22, 8:36 PM , hameedfemina, 😘,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,pos,0
+10/24/22, 7:44 AM , hameedfemina, Happy Diwali Suganya,"{'neg': 0.0, 'neu': 0.351, 'pos': 0.649, 'compound': 0.5719}",0.5719,0.0,0.649,0.351,pos,4
+10/24/22, 8:08 AM , Suganya tn, Happy diwali Femi,"{'neg': 0.0, 'neu': 0.351, 'pos': 0.649, 'compound': 0.5719}",0.5719,0.0,0.649,0.351,pos,4
+10/26/22, 3:26 PM , hameedfemina, Happy Birthday chella kutty,"{'neg': 0.0, 'neu': 0.448, 'pos': 0.552, 'compound': 0.5719}",0.5719,0.0,0.552,0.448,pos,4
+1/1/23, 1:36 PM , hameedfemina, Happy new year Sugu,"{'neg': 0.0, 'neu': 0.448, 'pos': 0.552, 'compound': 0.5719}",0.5719,0.0,0.552,0.448,pos,0
+1/1/23, 6:30 PM , Suganya tn, Happy new year Femi,"{'neg': 0.0, 'neu': 0.448, 'pos': 0.552, 'compound': 0.5719}",0.5719,0.0,0.552,0.448,pos,4
+1/15/23, 2:44 PM , hameedfemina, Happy pongal Sugu,"{'neg': 0.0, 'neu': 0.351, 'pos': 0.649, 'compound': 0.5719}",0.5719,0.0,0.649,0.351,pos,0
+1/15/23, 6:03 PM , Suganya tn, Happy pongal Femi,"{'neg': 0.0, 'neu': 0.351, 'pos': 0.649, 'compound': 0.5719}",0.5719,0.0,0.649,0.351,pos,4
+1/15/23, 6:03 PM , Suganya tn, Thank you,"{'neg': 0.0, 'neu': 0.286, 'pos': 0.714, 'compound': 0.3612}",0.3612,0.0,0.714,0.286,pos,4
+1/30/23, 10:49 AM , hameedfemina, Sugu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+1/30/23, 10:50 AM , hameedfemina, I need one help. My cousin brother is looking for job. He is 2.8 yrs experienced. If possible can you refer him,"{'neg': 0.0, 'neu': 0.881, 'pos': 0.119, 'compound': 0.4019}",0.4019,0.0,0.119,0.881,pos,4
+1/30/23, 10:50 AM , hameedfemina, ?,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,pos,0
+1/30/23, 10:54 AM , Suganya tn, Sure ma,"{'neg': 0.0, 'neu': 0.303, 'pos': 0.697, 'compound': 0.3182}",0.3182,0.0,0.697,0.303,pos,2
+1/30/23, 10:54 AM , Suganya tn, But there is no opening currently happening I wil check.please se d resume,"{'neg': 0.219, 'neu': 0.781, 'pos': 0.0, 'compound': -0.4215}",-0.4215,0.219,0.0,0.781,neg,2
+1/30/23, 11:13 AM , hameedfemina, Above email I'd is correct?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+1/30/23, 11:17 AM , Suganya tn, Yes ma,"{'neg': 0.0, 'neu': 0.27, 'pos': 0.73, 'compound': 0.4019}",0.4019,0.0,0.73,0.27,pos,2
+4/1/23, 11:03 PM , Suganya tn, Hey super. In which they got ma?,"{'neg': 0.0, 'neu': 0.606, 'pos': 0.394, 'compound': 0.5994}",0.5994,0.0,0.394,0.606,pos,2
+4/2/23, 4:46 AM , hameedfemina, Badminton,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+6/24/23, 1:07 PM , Suganya tn, https://halwakadai.com/content/4-about-us,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+6/24/23, 1:07 PM , Suganya tn, Alapatiyan karupatti coffee,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+6/24/23, 1:07 PM , Suganya tn, Aala,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+6/24/23, 1:09 PM , Suganya tn, Even in IT Industry we can bring this,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+8/17/23, 8:57 PM , hameedfemina, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+8/17/23, 8:57 PM , hameedfemina, Sugu if possible refer him in Accenture site,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+8/17/23, 8:58 PM , hameedfemina, Sugu regarding tea shop I enquired and met franchise all are saying in tea shop you can't leave other person . They don't need investor they need owner to work in shop,"{'neg': 0.0, 'neu': 0.962, 'pos': 0.038, 'compound': 0.0382}",0.0382,0.0,0.038,0.962,pos,0
+8/17/23, 11:44 PM , Suganya tn, Ok,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.296}",0.296,0.0,1.0,0.0,pos,4
+8/18/23, 7:39 AM , hameedfemina, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+8/18/23, 7:41 AM , hameedfemina, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+8/18/23, 8:07 AM , Suganya tn, Call panrrn da,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+8/18/23, 8:08 AM , hameedfemina, K,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,pos,0
+8/18/23, 8:09 AM , Suganya tn, Sure ma na kekaren,"{'neg': 0.0, 'neu': 0.566, 'pos': 0.434, 'compound': 0.3182}",0.3182,0.0,0.434,0.566,pos,2
+8/18/23, 8:09 AM , Suganya tn, What time u free da 😊,"{'neg': 0.0, 'neu': 0.476, 'pos': 0.524, 'compound': 0.5106}",0.5106,0.0,0.524,0.476,pos,4
+8/18/23, 8:11 AM , hameedfemina, After Sana school van,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+8/18/23, 8:11 AM , hameedfemina, I will call u,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+8/27/23, 4:34 PM , hameedfemina, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,1
+8/28/23, 9:44 AM , hameedfemina, Cake Makers,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+8/28/23, 9:46 AM , hameedfemina, Check this this is his 1 at shop,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2
+8/28/23, 10:25 AM , hameedfemina, Cake Makers,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+8/28/23, 10:25 AM , hameedfemina, His 2 ND branch here only he is having production ..no need more space for production also.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+8/28/23, 10:58 AM , hameedfemina, Sugu when u get time can u come up with complete course content 1st and share then video for that ?,"{'neg': 0.0, 'neu': 0.885, 'pos': 0.115, 'compound': 0.296}",0.296,0.0,0.115,0.885,pos,0
+8/28/23, 12:34 PM , Suganya tn, Ok Femi,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.296,0.0,0.688,0.312,pos,4
+8/28/23, 12:35 PM , hameedfemina, Sugu nambikayana yarachum irukanga laptop oda. Konjma freelance job pakanum. Website la,"{'neg': 0.0, 'neu': 0.833, 'pos': 0.167, 'compound': 0.296}",0.296,0.0,0.167,0.833,pos,0
+8/28/23, 12:35 PM , Suganya tn, What kind of job ma,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,2
+8/28/23, 12:36 PM , Suganya tn, Will check and let you know,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+8/28/23, 12:36 PM , Suganya tn, In meeting,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+8/28/23, 12:37 PM , hameedfemina, Enaku venum. In freelancing site la simple task apuram namaku theriha technology task ellam apply Pani ,"{'neg': 0.0, 'neu': 0.915, 'pos': 0.085, 'compound': 0.1027}",0.1027,0.0,0.085,0.915,pos,0
+8/28/23, 12:38 PM , hameedfemina, Ennoda team ippo under training . Using one NGO giving basic traing to them,"{'neg': 0.0, 'neu': 0.833, 'pos': 0.167, 'compound': 0.34}",0.34,0.0,0.167,0.833,pos,2
+8/28/23, 12:38 PM , hameedfemina, If we get good project and able to do it with this team we can get more. And expand to other technologies also,"{'neg': 0.0, 'neu': 0.793, 'pos': 0.207, 'compound': 0.6682}",0.6682,0.0,0.207,0.793,pos,2
+8/28/23, 12:39 PM , hameedfemina, Ennaku project work la etha pakka mudiyathu.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,4
+8/28/23, 12:39 PM , hameedfemina, Atha. Yarachum iruntha daily one hr etha patha helpful ah irukum,"{'neg': 0.0, 'neu': 0.781, 'pos': 0.219, 'compound': 0.4215}",0.4215,0.0,0.219,0.781,pos,0
+8/28/23, 12:39 PM , Suganya tn, Ok maa will ask my friend if she says ok will let u know,"{'neg': 0.0, 'neu': 0.568, 'pos': 0.432, 'compound': 0.765}",0.765,0.0,0.432,0.568,pos,4
+8/28/23, 12:39 PM , hameedfemina, Ellame requirement edukathan,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,pos,0
+8/28/23, 12:42 PM , Suganya tn, Ok da,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.296,0.0,0.688,0.312,pos,4
